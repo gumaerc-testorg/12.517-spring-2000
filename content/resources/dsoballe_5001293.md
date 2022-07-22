@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Upper Mississippi River Valley
 uid: e59658b6-8f62-febc-1e2b-d98c2cc0d9e3
 ---
 The complexity of the Upper Mississippi River Valley. (Courtesy of USGS.)
-
